@@ -24,6 +24,7 @@ Group name: Sandboxนะจ๊ะ
   * ตัวอย่างข้อมูล
 
 **2. Chapter 2 Getting to Know Your Data**
+
    2.1 (15/Jul/2021) [Ep.1](https://github.com/PhinyadaPhen/DWDM21/blob/main/Chapter%202.1.pdf)
    * ขนาดของข้อมูล, ตัวอย่างข้อมูล, คุณสมบัติ, ชนิดของข้อมูล
     
@@ -47,6 +48,7 @@ Group name: Sandboxนะจ๊ะ
   * Frequent Itemsets(Patterns) 
 
 **5. Chapter 8 Classification:Basic Concepts**
+
    5.1 (7/Oct/2021 12:55 PM.) [Ep.1](https://github.com/PhinyadaPhen/DWDM21/blob/main/Chapter%208%20Classification%20.pdf)
    * การสร้างโมเดลแบบมีผู้สอน และโมเดลแบบไม่มีผู้สอน
    * สร้างโมเดลเพื่อมาทำนายคำตอบของข้อมูล
