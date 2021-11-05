@@ -72,8 +72,64 @@ Group name: Sandboxนะจ๊ะ
 
 **ปฏิบัติ (Google Colab)** 
 
+**1. บทที่ 2 **
+* [Data101](https://github.com/PhinyadaPhen/DWDM21/blob/main/Data101(Chapter2).ipynb)
+  * Basic Python
+    * variables
+  * Casting
+    * int() float() str()
+  * Data Structure
+    * list()
+  * Loop
+  * Condition
+    * เงื่อนไข if statement
+  * Function
+* [Data102](https://github.com/PhinyadaPhen/DWDM21/blob/main/Data102(Chapter2).ipynb)
+  * Boxplot
+  * Time Series Plot
+* [Data Visualization](https://github.com/PhinyadaPhen/DWDM21/blob/main/Data_Visualization.ipynb)
+  * Visualization
+    * Scatter plot
+    * Plot
+    * Barchart
+    * Stacked Barchart
+    * Histogram
+* [Distance Numpy](https://github.com/PhinyadaPhen/DWDM21/blob/main/Distance_Numpy.ipynb)
+  * Numpy Array
+  * สร้าง matrix เริ่มต้น(Zeros,ones)
+  * สร้าง matrix randoom
+  * matrix properties
+  * Indexing & Slicing
+  * Useful functions
+  * วนลูปเอง (กรณีจำค่า function ไม่ได้)
+  * Distance Matrix
+  * Euclidean Distance (L2-norm)
+  * Distance function
+  * Manhattan Distance (L1-norm)
+  * Distance of Binary Value
 
+**2. บทที่ 3**
+* [Data Preprocessing](https://github.com/PhinyadaPhen/DWDM21/blob/main/Data_Preprocessing(Chapter3).ipynb)
+  * Meta Data
+    * ชี้ข้อมูลในตารางแบบธรรมดา 
+    * ชี้ข้อมูลในตารางแบบ .iloc[]
+  * Missing Values
+  * Handing Missing Values 1 (ลบค่า missing)
+  * Handing Missing Values 1.5 (ลบค่า missing เฉพาะ column ที่สนใจ)
+  * Handing Missing Values 2 (แทนด้วย class ใหม่(unknown))
+  * Handing Missing Values 3 (แทนด้วย class ใหม่(ค่าที่เหมาะสม))
+  * Handing Missing Values 4 (แทนด้วยค่ากลาง)
+  * Handing Missing Values 5 (แทนด้วยค่ากล่าง samples ใน class เดียวกัน)
+  * Select data by values [Pandas]
+    * การต่อตารางในแนวแกน Y [PD]
+    * การเรียงข้อมูล [PD]
+    * Group by [PD]
+    * การสร้างตาราง [PD]
+  * Outlier
 
-
-
-
+**3. บทที่ 5**
+* [Association Rules](https://github.com/PhinyadaPhen/DWDM21/blob/main/Chapter_6_Association_Rules.ipynb)
+  * การลบ records ที่ถูก cancel ออก
+  * การเตรียม Data สำหรับ (Fequence Pattern) Association Rule
+  * Apriori
+  * หา K-Itemsets
