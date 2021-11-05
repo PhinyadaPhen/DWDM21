@@ -167,7 +167,7 @@ Group name: Sandboxนะจ๊ะ
   * Clustering Evaluation (เว็บไซท์เพิ่มเติม)
 
 **MiniExam**
-* [Midterm](https://github.com/PhinyadaPhen/DWDM21/blob/main/MiniExam.ipynb)
+* [Mid-term](https://github.com/PhinyadaPhen/DWDM21/blob/main/MiniExam.ipynb)
 
 **Project**
 * [FinalProject](https://github.com/PhinyadaPhen/DWDM21/blob/main/ProjectFinal.ipynb)
