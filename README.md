@@ -16,7 +16,7 @@ Group name: Sandboxนะจ๊ะ
 5. นางสาวนฤมล ไสยโสภณ 623021050-6
 
 ## สารบัญ
-#### **ทฤษฎี (เนื้อหา)** 
+### **ทฤษฎี (เนื้อหา)** 
 
 **1. Chapter 1 [Introduction](https://github.com/PhinyadaPhen/DWDM21/blob/main/Chapter%201.pdf)**
   * Data Mining คืออะไร?
@@ -70,9 +70,9 @@ Group name: Sandboxนะจ๊ะ
   * การทำ Cluster ที่ดีต้องมี 4 ข้อ อะไรบ้าง?
   * ในกรณีที่เราไม่รู้แนวคำตอบสามารถทำอย่างไรได้บ้าง?
 
-#### **ปฏิบัติ (Google Colab)** 
+### **ปฏิบัติ (Google Colab)** 
 
-**1. บทที่ 2 **
+**1. บทที่ 2**
 * [Data101](https://github.com/PhinyadaPhen/DWDM21/blob/main/Data101(Chapter2).ipynb)
   * Basic Python
     * variables
@@ -167,9 +167,9 @@ Group name: Sandboxนะจ๊ะ
   * Clustering Evaluation (เว็บไซท์เพิ่มเติม)
 
 **MiniExam**
-[Midterm](https://github.com/PhinyadaPhen/DWDM21/blob/main/MiniExam.ipynb)
+* [Midterm](https://github.com/PhinyadaPhen/DWDM21/blob/main/MiniExam.ipynb)
 
 **Project**
-[FinalProject](https://github.com/PhinyadaPhen/DWDM21/blob/main/ProjectFinal.ipynb)
+* [FinalProject](https://github.com/PhinyadaPhen/DWDM21/blob/main/ProjectFinal.ipynb)
 
-#### **Thank You :)**
+### **Thank You :)**
