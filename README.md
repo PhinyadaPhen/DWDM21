@@ -16,7 +16,7 @@ Group name: Sandboxนะจ๊ะ
 5. นางสาวนฤมล ไสยโสภณ 623021050-6
 
 ## สารบัญ
-**ทฤษฎี (เนื้อหา)** 
+#### **ทฤษฎี (เนื้อหา)** 
 
 **1. Chapter 1 [Introduction](https://github.com/PhinyadaPhen/DWDM21/blob/main/Chapter%201.pdf)**
   * Data Mining คืออะไร?
@@ -70,7 +70,7 @@ Group name: Sandboxนะจ๊ะ
   * การทำ Cluster ที่ดีต้องมี 4 ข้อ อะไรบ้าง?
   * ในกรณีที่เราไม่รู้แนวคำตอบสามารถทำอย่างไรได้บ้าง?
 
-**ปฏิบัติ (Google Colab)** 
+#### **ปฏิบัติ (Google Colab)** 
 
 **1. บทที่ 2 **
 * [Data101](https://github.com/PhinyadaPhen/DWDM21/blob/main/Data101(Chapter2).ipynb)
@@ -133,3 +133,43 @@ Group name: Sandboxนะจ๊ะ
   * การเตรียม Data สำหรับ (Fequence Pattern) Association Rule
   * Apriori
   * หา K-Itemsets
+
+**4. บทที่ 6**
+* [Classification - Decision Tree](https://github.com/PhinyadaPhen/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+  * Load data
+  * Train Model
+  * Plot tree
+  * Evaluation
+  * Advanced Tree
+  * Test
+* [Classification - KNN_NN](https://github.com/PhinyadaPhen/DWDM21/blob/main/Chapter_7_Classification(KNN_NN).ipynb)
+  * Load data
+  * Split data
+  * Train Model
+  * Retrain & Evaluation
+  * Neural Network
+* [Classification - Evaluation](https://github.com/PhinyadaPhen/DWDM21/blob/main/Chapter_7_Classification(Evaluation).ipynb)
+  * Load data
+  * การแบ่ง data
+  * สร้าง Model ทำนาย
+
+**5. บทที่ 7**
+* [Clutering](https://github.com/PhinyadaPhen/DWDM21/blob/main/Chapter_8_Clustering.ipynb)
+  * K-Means 
+    * Generate data
+    * Explore data
+    * Clustering
+    * Example Application(Color Quantization)
+    * นับจำนวนสี
+    * จัดกลุ่มสี
+    * ใช้ Centroid เป็นตัวแทนสี
+  * Hierachicla Clustering (เว็บไซท์เพิ่มเติม)
+  * Clustering Evaluation (เว็บไซท์เพิ่มเติม)
+
+**MiniExam**
+[Midterm](https://github.com/PhinyadaPhen/DWDM21/blob/main/MiniExam.ipynb)
+
+**Project**
+[FinalProject](https://github.com/PhinyadaPhen/DWDM21/blob/main/ProjectFinal.ipynb)
+
+#### **Thank You :)**
