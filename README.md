@@ -46,17 +46,16 @@ Group name: Sandboxนะจ๊ะ
 
 **5. Chapter 8 Classification:Basic Concepts**
   * 5.1 (7/Oct/2021 12:55 PM.) [Ep.1](https://github.com/PhinyadaPhen/DWDM21/blob/main/Chapter%208%20Classification%20.pdf)
-   * การสร้างโมเดลแบบมีผู้สอน และโมเดลแบบไม่มีผู้สอน
-   * สร้างโมเดลเพื่อมาทำนายคำตอบของข้อมูล
-   * Decision Tree Induction (การทำนายโดยวิธีต้นไม้ตัดสินใจ)
-   * ตัวอย่างการหาคำตอบ
-    
-    5.2 (18/Oct/2021 8:11 PM.) [Ep.2](https://github.com/PhinyadaPhen/DWDM21/blob/450449bc472abe3e4dff9914bcaead8f34bfb1b7/Chapter%208%20Nai%CC%88ve%20Bayes%20Classifier.pdf)
-   * วิธีการทำ Train-Test ข้อมูลของ Naïve Bayes Classifier
-   * ตัวอย่างการคำนวณ
-   * Chapter 9 Lazy Learner:Instance-Based Mathods
-   * Lazy Learner คืออะไร?
-   * วิธีการหาค่า K-NN (K-nearest neighbors)
+    * การสร้างโมเดลแบบมีผู้สอน และโมเดลแบบไม่มีผู้สอน
+    * สร้างโมเดลเพื่อมาทำนายคำตอบของข้อมูล
+    * Decision Tree Induction (การทำนายโดยวิธีต้นไม้ตัดสินใจ)
+    * ตัวอย่างการหาคำตอบ
+  * 5.2 (18/Oct/2021 8:11 PM.) [Ep.2](https://github.com/PhinyadaPhen/DWDM21/blob/450449bc472abe3e4dff9914bcaead8f34bfb1b7/Chapter%208%20Nai%CC%88ve%20Bayes%20Classifier.pdf)
+    * วิธีการทำ Train-Test ข้อมูลของ Naïve Bayes Classifier
+    * ตัวอย่างการคำนวณ
+    * Chapter 9 Lazy Learner:Instance-Based Mathods
+    * Lazy Learner คืออะไร?
+    * วิธีการหาค่า K-NN (K-nearest neighbors)
 
 **6. Chapter 8+9 [Neural Network for Classification](https://github.com/PhinyadaPhen/DWDM21/blob/ba3759af91b84491dbb0e83e224b52b0bda2a7af/Chapter%208-9%20Neural%20Network%20.pdf)**
   * องค์ประกอบของ Perceptron
