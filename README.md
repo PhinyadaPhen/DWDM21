@@ -83,7 +83,10 @@ Group name: Sandboxนะจ๊ะ
   * Loop
   * Condition
     * เงื่อนไข if statement
+  * HW ตัดเกรด
+  * Quiz 1 
   * Function
+  * Quiz 2
 * [Data102](https://github.com/PhinyadaPhen/DWDM21/blob/main/Data102(Chapter2).ipynb)
   * Boxplot
   * Time Series Plot
@@ -101,11 +104,14 @@ Group name: Sandboxนะจ๊ะ
   * matrix properties
   * Indexing & Slicing
   * Useful functions
+  * Quiz Group
   * วนลูปเอง (กรณีจำค่า function ไม่ได้)
   * Distance Matrix
   * Euclidean Distance (L2-norm)
   * Distance function
   * Manhattan Distance (L1-norm)
+  * Quiz 6 
+  * HW Function คำนวณ
   * Distance of Binary Value
 
 **2. บทที่ 3**
@@ -115,6 +121,7 @@ Group name: Sandboxนะจ๊ะ
     * ชี้ข้อมูลในตารางแบบ .iloc[]
   * Missing Values
   * Handing Missing Values 1 (ลบค่า missing)
+  * Quiz 3
   * Handing Missing Values 1.5 (ลบค่า missing เฉพาะ column ที่สนใจ)
   * Handing Missing Values 2 (แทนด้วย class ใหม่(unknown))
   * Handing Missing Values 3 (แทนด้วย class ใหม่(ค่าที่เหมาะสม))
@@ -125,11 +132,16 @@ Group name: Sandboxนะจ๊ะ
     * การเรียงข้อมูล [PD]
     * Group by [PD]
     * การสร้างตาราง [PD]
+  * Quiz 4 + HW เลือก records
   * Outlier
+  * Quiz 5
+  * Quiz group(III)
+  * Quiz + HW การหาอันดับจังหวัด/เมือง
 
 **3. บทที่ 5**
 * [Association Rules](https://github.com/PhinyadaPhen/DWDM21/blob/main/Chapter_6_Association_Rules.ipynb)
   * การลบ records ที่ถูก cancel ออก
+  * Quiz + HW วาดกราฟสรุปจำนวน
   * การเตรียม Data สำหรับ (Fequence Pattern) Association Rule
   * Apriori
   * หา K-Itemsets
